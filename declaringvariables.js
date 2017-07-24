@@ -1,0 +1,20 @@
+var numa = 1.3;
+var numb = -4;
+var numc = 13;
+var numd = 777;
+var string1 = "Gay Frogs.";
+var string2 = "Vampire Goblins.";
+var string3 = "Lizard People.";
+var boo1 = true;
+var boo2 = false;
+var undef;
+
+console.log("The Decimal:", numa);
+console.log("The Negative:", numb);
+console.log("The Unlucky Number:", numc);
+console.log("The Lucky Number:", numd);
+console.log("They poisoned our water to make " + string1);
+console.log("I have seen them. Real " + string2);
+console.log("I'm tellin' you, man, they are not human. These are " + string3);
+console.log("Extraterrestrials are comin' to kill us all.:", boo1);
+console.log("Hillary Clinton is a normal human female:", boo2);
